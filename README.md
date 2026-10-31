@@ -168,5 +168,8 @@ if (i + 1) % 100 == 0:
 
 https://github.com/harini194/Ex.NO-6-Implementing-a-GAN-Hands-on-project-to-understand-and-implement-a-GAN..git
 
+<img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/2fb4e5a8-7ccc-43a8-9a17-ebcde9c8ea00" />
+
+
 ## Result:
 Thus successfully implemented and trained a GAN that learns to generate realistic CIFAR-10 images through adversarial training.
